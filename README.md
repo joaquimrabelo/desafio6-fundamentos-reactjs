@@ -7,7 +7,7 @@
 
 ## Sobre <a name = "about"></a>
 
-Desafia GoStack, página em ReactJS + TypeScript consumindo dados via API de um Back-End NodeJS.
+Desafio GoStack, página em ReactJS + TypeScript consumindo dados via API de um Back-End NodeJS.
 
 ## Setup <a name = "getting_started"></a>
 
